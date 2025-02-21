@@ -1,0 +1,26 @@
+ *{
+  margin: 0;
+
+ }
+
+.book{
+  text-align: center;
+  background-color:hsla(0, 0%, 0%, 0.5);
+  height: 500px;
+  border: 1px solid;
+  margin-top: 10px;
+}
+.book2{
+  text-align: center;
+  background-color:hsla(0, 0%, 0%, 0.5);
+  height: 500px;
+  border: 1px solid;
+  margin-top: 10px;
+}
+.book3{
+  text-align: center;
+  background-color:hsla(0, 0%, 0%, 0.5);
+  height: 500px;
+  border: 1px solid;
+  margin-top: 10px;  
+}
