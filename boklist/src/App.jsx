@@ -21,6 +21,8 @@ function App() {
     let path3 = "https://www.amazon.com/Cold-Storm-Special-action-thriller-Roger-ebook/dp/B07T8QHXFF";
     window.location.href = path3; // This will navigate to an external link
   };
+
+  var random = 0;
   
   return(
     <>
